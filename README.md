@@ -1,5 +1,39 @@
 <h1 align="center">Hi, I'm Zane Schepke</h1>
 <h3 align="center">I'm a developer with a passion for adding value to people.</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://quarkus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/4a0bdb9141afd8d9be5d6b8d6b22eb40be88f665/topics/quarkus/quarkus.png" alt="quarkus" width="40" height="40"/> </a> <a href="https://tauri.app/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tauri-apps/tauri/HEAD/app-icon.png" alt="tauri" width="40" height="40"/> </a>  </p>
+## Connect me
+
+<a href="https://blog.zaneschepke.com">
+  <img src="https://img.shields.io/badge/blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />    
+</a>&nbsp;
+<a href="https://www.twitter.com/zaneschepke/">
+  <img src="https://img.shields.io/badge/@zaneschepke-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/zaneschepke/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="mailto:support@zaneschepke.com">
+  <img src="https://img.shields.io/badge/mail-840010?style=for-the-badge&logo=Tutanota&logoColor=white" />
+</a>&nbsp;
+<a href="https://stackoverflow.com/users/7876371/zane-schepke">
+  <img src="https://img.shields.io/badge/-stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />    
+</a>&nbsp;
+
+## Programming languages
+
+<img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/Java-E56F08?style=for-the-badge&logo=java&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/Dart-%230077B5?style=for-the-badge&logo=dart&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/JavaScript-fff200?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
+<img  src="https://img.shields.io/badge/TypeScript-%230077B5?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/SQL-b33939?style=for-the-badge&logo=sql&logoColor=white">&nbsp;
+
+## Github stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=zaneschepke&count_private=true&show_icons=true&theme=tokyonight" />&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaneschepke&theme=tokyonight" />&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaneschepke&layout=compact&theme=tokyonight&langs_count=10&hide=html,purebasic,scss,css" />
+
+## Visitors count
+
+<img src="https://profile-counter.glitch.me/zaneschepke/count.svg" />
