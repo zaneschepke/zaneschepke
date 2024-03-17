@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Zane Schepke</h1>
-<h3 align="center">I'm a developer with a passion for adding value to people.</h3>
+<h1>Hi, I'm Zane Schepke</h1>
+<h3>I'm a developer with a passion for adding value to people.</h3>
 
 ## Connect me
 
