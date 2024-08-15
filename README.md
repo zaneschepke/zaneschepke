@@ -12,9 +12,6 @@
 <a href="https://www.linkedin.com/in/zaneschepke/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
-<a href="mailto:support@zaneschepke.com">
-  <img src="https://img.shields.io/badge/mail-840010?style=for-the-badge&logo=Tutanota&logoColor=white" />
-</a>&nbsp;
 <a href="https://stackoverflow.com/users/7876371/zane-schepke">
   <img src="https://img.shields.io/badge/-stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />    
 </a>&nbsp;
