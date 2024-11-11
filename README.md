@@ -9,9 +9,6 @@
 <a href="https://www.twitter.com/zaneschepke/">
   <img src="https://img.shields.io/badge/@zaneschepke-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/zaneschepke/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
 <a href="https://stackoverflow.com/users/7876371/zane-schepke">
   <img src="https://img.shields.io/badge/-stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />    
 </a>&nbsp;
