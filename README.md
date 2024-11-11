@@ -1,7 +1,7 @@
 <h1>Hi, I'm Zane Schepke</h1>
 <h3>I'm a developer with a passion for adding value to people.</h3>
 
-## Connect me
+## Links
 
 <a href="https://blog.zaneschepke.com">
   <img src="https://img.shields.io/badge/blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />    
