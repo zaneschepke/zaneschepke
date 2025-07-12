@@ -26,6 +26,8 @@ jobs:
 
           # Options
           user: zaneschepke
+          repositories_affiliations: owner
+          plugin_repositories_filters: wgtunnel/*
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
