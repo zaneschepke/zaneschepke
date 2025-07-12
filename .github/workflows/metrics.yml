@@ -1,8 +1,8 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  # Schedule updates (every 4 hours)
+  schedule: [{cron: "0 */4 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -41,6 +41,11 @@ jobs:
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
           commits_authoring: "Zane Schepke, zaneschepke, dev@zaneschepke.com, zanecschepke@gmail.com"
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_analysis_timeout_repositories: 30
+          repositories: 50
+          plugin_languages_details: percentage
+          plugin_languages_sections: most-used
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
