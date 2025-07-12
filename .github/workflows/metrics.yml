@@ -26,7 +26,7 @@ jobs:
 
           # Options
           user: zaneschepke
-          repositories_affiliations: owner
+          repositories_affiliations: owner, collaborator, organization_member
           plugin_repositories_filters: wgtunnel/*
           template: classic
           base: header, activity, community, repositories, metadata
@@ -38,7 +38,7 @@ jobs:
           # commits_authoring: "dev@zaneschepke.com, zanecschepke@gmail.com"
           # plugin_languages_analysis_timeout: 60
           # plugin_languages_analysis_timeout_repositories: 30
-          repositories: 30
+          # repositories: 30
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
           plugin_languages_categories: markup, programming
