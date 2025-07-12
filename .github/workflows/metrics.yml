@@ -40,6 +40,8 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
+          plugin_languages_indepth: yes
+          commits_authoring: "Zane Schepke, zaneschepke, dev@zaneschepke.com, zanecschepke@gmail.com"
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
