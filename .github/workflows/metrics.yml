@@ -27,7 +27,7 @@ jobs:
           # Options
           user: zaneschepke
           repositories_affiliations: owner, collaborator, organization_member
-          plugin_repositories_filters: wgtunnel/*
+          plugin_repositories_filters: wgtunnel/*, nymtech/nym-vpn-client
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
