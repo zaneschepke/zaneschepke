@@ -34,8 +34,8 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
-          # plugin_languages_indepth: yes
-          # commits_authoring: "dev@zaneschepke.com, zanecschepke@gmail.com"
+          plugin_languages_indepth: yes
+          commits_authoring: "dev@zaneschepke.com, zanecschepke@gmail.com"
           # plugin_languages_analysis_timeout: 60
           # plugin_languages_analysis_timeout_repositories: 30
           # repositories: 30
