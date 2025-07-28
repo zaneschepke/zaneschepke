@@ -1,2 +1,2 @@
-<img src="./github-metrics.svg" alt="Metrics">
-
+![](https://raw.githubusercontent.com/zaneschepke/stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/zaneschepke/stats/master/generated/languages.svg#gh-dark-mode-only)
